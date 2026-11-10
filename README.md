@@ -10,7 +10,7 @@
 
 تمام قسمت‌ها به‌صورت زنده در GitHub Pages قابل مشاهده هستند:
 
-**➡️ [مشاهده جزوه](https://mehran00programmer.github.io/Software-Engineering-1/)**
+**➡️ [مشاهده جزوه](https://mehran00programmer.github.io/Software-Engineering-1-Learning/)**
 
 ---
 
